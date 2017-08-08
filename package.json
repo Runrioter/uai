@@ -1,0 +1,26 @@
+{
+  "name": "uai",
+  "version": "1.0.0",
+  "description": "Learn Javascript, u & i",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runrioter/uai.git"
+  },
+  "keywords": [
+    "javascript",
+    "cli-book"
+  ],
+  "author": "Runrioter <runrioter@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Runrioter/uai/issues"
+  },
+  "homepage": "https://github.com/Runrioter/uai#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
