@@ -1,6 +1,12 @@
 
-function uai(greeting: string): string {
-  return `${greeting}, uai`;
+const enum Color {
+  RED,
+  YELLOW,
+  BLUE
 }
 
-export default uai;
+function uai(greeting: string): string {
+  return `${greeting}, uai ${Color.RED}`;
+}
+
+export = uai;

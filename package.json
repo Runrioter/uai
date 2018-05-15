@@ -2,9 +2,11 @@
   "name": "uai",
   "version": "1.0.2",
   "description": "u &amp; i",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
   "scripts": {
-    "test": "jest"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,6 @@
   },
   "homepage": "https://github.com/Runrioter/uai#readme",
   "devDependencies": {
-    "jest": "^20.0.4"
+    "typescript": "^2.8.3"
   }
 }
