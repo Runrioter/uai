@@ -1,7 +1,7 @@
 {
   "name": "uai",
   "version": "1.0.2",
-  "description": "Learn Javascript, u & i",
+  "description": "u &amp; i",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/Runrioter/uai.git"
   },
   "keywords": [
-    "javascript",
-    "cli-book"
+    "JavaScript",
+    "TypeScript"
   ],
   "author": "Runrioter <runrioter@qq.com>",
   "license": "MIT",
